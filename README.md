@@ -21,8 +21,6 @@ Users should be able to:
 - See hover and focus states for all interactive elements on the page
 
 ### Links
-
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
 - Live Site URL: [https://social-links-beryl-psi.vercel.app/](https://social-links-beryl-psi.vercel.app/)
 
 
